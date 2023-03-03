@@ -1,0 +1,5 @@
+Eventos = São coisas que acontecem na página
+
+- Clicar em algo;
+- Passamos o mouse sobre algo;
+- Submetemos um formulário;
